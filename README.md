@@ -1,3 +1,5 @@
+![ScreenShot](/demo/advert_800.png)
+
 # PitPad
 Track Day Session Management Tool
 
